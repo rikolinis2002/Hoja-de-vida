@@ -1,0 +1,34 @@
+{"squadName":"Hoja de vida",
+"Institución": "El Libertador I.E.D",
+"Profesión": "Tecnico en sistemas" ,
+"active": true,
+"members": [
+{
+"Nombre": "Cristian Camilo Rico Caceres",
+"edad": 17,
+"N° Documento": 1024481049,
+"Información Personal": [
+"Me llamo Cristian Camilo Rico Caceres, Soy un estudiante de la institución educativa distrital El Libertador Sede A, estoy cursando el grado once", 
+"Quiero entrar a la universidad Nacional de colombia(Bogotá) a estudiar la carrera de medicina. Naci en la ciudad de Bogotá D.C el dia 19 de enero del 2002.",
+"Mis hobbies son jugar futbol, leer libros, y jugar xbox, entre otros."
+
+]
+},
+{
+
+"Experiencia Academica": [
+"Bachiller Tecnico en sistemas SENA",
+"Bachiller Tecnico en informatica SENA"
+
+]
+},
+{
+
+"Experiencia Laboral": [
+"Proyecto: Establecer procedimientos técnicos de:mantenimiento preventivo de computadores y de la conectividad,ensamble de desarrollo de aplicativos", 
+"Producción de documentos ofimaticos; para garantizar el óptimo desempeño en los procesos deducativos (públicos y privados), teniendo en cuenta las normas tecnicas nacionales e internacionales, politicas institucionales.",
+
+]
+}
+]
+}
